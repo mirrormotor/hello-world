@@ -1,2 +1,3 @@
 # hello-world
-an experiment
+Making changes
+Just practicing.
